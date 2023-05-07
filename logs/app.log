@@ -1,0 +1,6 @@
+2021-03-19 10:57:44.611 [main][8434] DEBUG amazon.api_test.WileyApiTC2 - <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>
+
+2021-03-19 10:57:44.618 [main][8441] DEBUG amazon.api_test.WileyApiTC2 - Actual status code : 500
